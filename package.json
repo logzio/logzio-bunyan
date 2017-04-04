@@ -1,0 +1,31 @@
+{
+  "name": "bunyan-logzio",
+  "version": "0.1.0",
+  "description": "A Logzio stream for the Bunyan logger",
+  "main": "./lib/bunyan-logzio.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/logzio/bunyan-logzio"
+  },
+  "keywords": [
+    "cloud computing",
+    "log",
+    "analytics",
+    "api",
+    "logging",
+    "logzio",
+    "nodejs",
+    "bunyan"
+  ],
+  "author": "Alon Mizrahi <alon@logz.io>",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "1.x.x",
+    "json-stringify-safe": "5.0.x",
+    "lodash.assign": "4.2.0",
+    "logzio-nodejs": "0.4.2"
+  }
+}
