@@ -4,8 +4,8 @@
 [Logz.io](http://logz.io/) stream for the Bunyan logger 
 
 ## Installation
-```js
-npm install bunyan-logzio --save
+```
+npm install logzio-bunyan --save
 ```
 
 
