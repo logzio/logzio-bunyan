@@ -12,7 +12,7 @@ npm install logzio-bunyan --save
 ## Sample usage
 ```javascript
 var bunyan = require('bunyan');
-var logzioBunyanStream = require('bunyan-logzio');
+var logzioBunyanStream = require('logzio-bunyan');
 
 var loggerOptions = {
     token: '__YOUR_API_TOKEN__'
