@@ -1,6 +1,6 @@
 ![Build Status](https://travis-ci.org/logzio/nuyan-logzio.svg?branch=master)
 
-# bunyan-logzio
+# logzio-bunyan
 [Logz.io](http://logz.io/) stream for the Bunyan logger 
 
 ## Installation
