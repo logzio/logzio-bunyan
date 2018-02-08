@@ -43,3 +43,7 @@ If you do not have a [Logz.io](http://logz.io) account, you can sign up for a fr
 This bunyan plugin, basically just wraps our [nodejs logzio shipper](https://github.com/logzio/logzio-nodejs).<br/>
 If you want to configure the nodejs logger, any parameters sent to bunyan when initializing the stream
 (what is held in the variable `loggerOptions` in the sample above) will be passed to the logzio nodejs logger itself.
+
+## Update log
+**0.2.0**  
+- Changed the default log message output field from `msg` to `message` be compatible with the default kibana `message` field 
