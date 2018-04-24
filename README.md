@@ -47,3 +47,6 @@ If you want to configure the nodejs logger, any parameters sent to bunyan when i
 ## Update log
 **0.2.0**  
 - Changed the default log message output field from `msg` to `message` be compatible with the default kibana `message` field 
+
+**0.2.1**  
+- Close underlying stream properly when closing applications 
