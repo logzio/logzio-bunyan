@@ -50,3 +50,6 @@ If you want to configure the nodejs logger, any parameters sent to bunyan when i
 
 **0.2.1**  
 - Close underlying stream properly when closing applications 
+
+**0.2.2**  
+- Update logzio-nodejs appender version 
