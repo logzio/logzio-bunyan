@@ -1,6 +1,6 @@
 {
   "name": "logzio-bunyan",
-  "version": "0.2.3",
+  "version": "1.0.1",
   "description": "A Logzio stream for the Bunyan logger",
   "main": "./lib/logzio-bunyan.js",
   "scripts": {
@@ -26,6 +26,6 @@
     "bunyan": "^1.8.12",
     "json-stringify-safe": "5.0.x",
     "lodash.assign": "4.2.0",
-    "logzio-nodejs": "^0.4.10"
+    "logzio-nodejs": "^1.0.3"
   }
 }
