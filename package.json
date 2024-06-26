@@ -26,6 +26,6 @@
     "bunyan": "^1.8.12",
     "json-stringify-safe": "5.0.x",
     "lodash.assign": "4.2.0",
-    "logzio-nodejs": "^1.0.3"
+    "logzio-nodejs": "^2.1.8"
   }
 }
